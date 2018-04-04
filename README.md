@@ -7,3 +7,5 @@ Trámites o lugares frecuentes: Dicha sesión tiene el fin de ayudar al usuario 
 ![enter image description here](https://raw.githubusercontent.com/javierflo88/hackthon/master/2.jpg)![9](https://javierflo88.github.io/hackthon/Captura.JPG)
 [Saber mas 
 ](https://javierflo88.github.io/hackthon/)
+![enter image description here](https://raw.githubusercontent.com/javierflo88/hackthon/master/2.jpg)![9](https://javierflo88.github.io/hackthon/1.jpg)
+![enter image description here](https://raw.githubusercontent.com/javierflo88/hackthon/master/1.jpg)![9](https://javierflo88.github.io/hackthon/Captura.JPG)
