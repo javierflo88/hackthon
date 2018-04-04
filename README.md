@@ -1,4 +1,5 @@
 Hackthon Proyecto Tapatío
+
 El funcionamiento de la aplicación se divide en dos tipos de sesión: 
 Consulta: Esta sesión tiene el propósito de mostrar los lugares turísticos y asistir al usuario en su experiencia recreacional. El usuario podrá preguntar y obtener respuestas sobre lugares históricos, centros recreacionales, lugares de interés, museos o rutas turísticas. 
 Trámites o lugares frecuentes: Dicha sesión tiene el fin de ayudar al usuario a encontrar lugares relacionados a los transportes públicos, tráfico en distintas zonas, dependencias gubernamentales, bancos, etcétera. 
